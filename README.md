@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h2>Hi there 👋</h2>
+</div>
+
 
 <!--
 **EmreCelik15/emrecelik15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/emrecelik15/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
