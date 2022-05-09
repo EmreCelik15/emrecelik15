@@ -19,11 +19,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecelik15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCelik15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📈 my github stats
+📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emrecelik15&show_icons=true&theme=gotham" alt="emrecelik15" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EmreCelik15&show_icons=true&theme=gotham" alt="EmreCelik15" />
 
 
 
